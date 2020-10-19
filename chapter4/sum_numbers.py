@@ -11,6 +11,5 @@ def sum_numbers():
         v = int(input('enter value: '))
         total = total + v
     print('total', total)
-
-
+       
 sum_numbers()
