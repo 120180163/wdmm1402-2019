@@ -12,5 +12,4 @@ def sum_numbers():
         total = total + v
     print('total', total)
 
-
 sum_numbers()
